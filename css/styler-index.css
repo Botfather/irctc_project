@@ -1,0 +1,36 @@
+	body {
+			  margin: 0px;
+			  padding: 0px;
+			  background: #ccc;
+        background: #eaeaea;
+        color: #999;
+        font-size: 16px;
+ 	}
+			 
+.foot{
+	clear: both;
+	margin-top: 200px;
+	text-align: center;
+	font-family: monospace;
+}
+
+
+
+
+header{
+  width: 100%;
+  background: #3DD6D0;
+   -webkit-box-shadow: -1px 6px 6px 0px rgba(0,0,0,0.24);
+  -moz-box-shadow: -1px 6px 6px 0px rgba(0,0,0,0.24);
+  box-shadow: -1px 6px 6px 0px rgba(0,0,0,0.24);
+  overflow: hidden;
+  height: 50px;
+}
+.wrap {
+  width: 80%;
+  max-width: 29em;
+  margin-left: 10px;
+  margin-top: 2px;
+  color:#fff; 
+}
+
